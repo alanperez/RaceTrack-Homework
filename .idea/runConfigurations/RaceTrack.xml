@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RaceTrack" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RaceTrack" />
+    <module name="RaceTrack" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
